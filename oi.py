@@ -3,4 +3,4 @@ print('hello world', a)
 
 
 import numpy
-import pandas
+import pandas as pd
